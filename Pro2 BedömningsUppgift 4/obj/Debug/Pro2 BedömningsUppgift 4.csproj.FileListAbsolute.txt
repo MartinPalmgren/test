@@ -1,0 +1,7 @@
+C:\Users\mrmar\source\repos\Pro2 BedömningsUppgift 4\bin\Debug\Pro2 BedömningsUppgift 4.exe.config
+C:\Users\mrmar\source\repos\Pro2 BedömningsUppgift 4\bin\Debug\Pro2 BedömningsUppgift 4.exe
+C:\Users\mrmar\source\repos\Pro2 BedömningsUppgift 4\bin\Debug\Pro2 BedömningsUppgift 4.pdb
+C:\Users\mrmar\source\repos\Pro2 BedömningsUppgift 4\obj\Debug\Pro2 BedömningsUppgift 4.csproj.AssemblyReference.cache
+C:\Users\mrmar\source\repos\Pro2 BedömningsUppgift 4\obj\Debug\Pro2 BedömningsUppgift 4.csproj.CoreCompileInputs.cache
+C:\Users\mrmar\source\repos\Pro2 BedömningsUppgift 4\obj\Debug\Pro2 BedömningsUppgift 4.exe
+C:\Users\mrmar\source\repos\Pro2 BedömningsUppgift 4\obj\Debug\Pro2 BedömningsUppgift 4.pdb
